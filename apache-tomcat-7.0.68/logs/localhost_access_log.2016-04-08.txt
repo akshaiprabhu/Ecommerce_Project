@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [08/Apr/2016:00:13:58 -0400] "GET /Ecommerce/register.jsp HTTP/1.1" 200 5157
+0:0:0:0:0:0:0:1 - - [08/Apr/2016:00:13:58 -0400] "GET /Ecommerce/css/bootstrap.min.css HTTP/1.1" 200 122540
+0:0:0:0:0:0:0:1 - - [08/Apr/2016:00:13:58 -0400] "GET /Ecommerce/css/form-style.css HTTP/1.1" 200 2511
+0:0:0:0:0:0:0:1 - - [08/Apr/2016:00:13:58 -0400] "GET /Ecommerce/css/style-register.css HTTP/1.1" 200 3743
+0:0:0:0:0:0:0:1 - - [08/Apr/2016:00:13:58 -0400] "GET /Ecommerce/js/jquery-1.11.1.min.js HTTP/1.1" 200 95786
+0:0:0:0:0:0:0:1 - - [08/Apr/2016:00:13:58 -0400] "GET /Ecommerce/js/bootstrap.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [08/Apr/2016:00:13:58 -0400] "GET /Ecommerce/js/scripts.js HTTP/1.1" 200 1174
+0:0:0:0:0:0:0:1 - - [08/Apr/2016:00:13:58 -0400] "GET /Ecommerce/img/bg.jpg HTTP/1.1" 200 943
