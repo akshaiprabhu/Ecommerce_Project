@@ -27,10 +27,11 @@ public class ConnectToDB {
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver").newInstance();
 
-			connection = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:", "system", "system");
+			connection = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:", "system", "vishal");
 			logger.log(Level.INFO, "Connected to DB");
 			System.out.println(connection);
 		} catch (Exception e) {
+			e.printStackTrace();
 			logger.log(Level.ERROR, "DB connection failed");
 		}
 		return connection;
